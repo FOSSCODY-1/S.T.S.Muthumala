@@ -45,6 +45,36 @@ Please download the installation setup and choose the location that you want to 
 And also you can create your own shortcuts while the install. 
 Finally, Enjoy it..
 
+----------------------------------------------------------------------------------------------------------------------------------
+### How to Use the My_Cal
+
+##### Standard Calculator
+
+	Go File -> Standard or press CTRL+S
+	Enter your operands and operators like other normal calculator and press EQUAL BUTTON,
+	Then you can see the Answer in the top display.
+	Also you can read your history right side the calculator.
+	Press “M+” button to keep the value in the memory. And it will show in meme=ory display. 
+	Press “M-“ button to clear the memory.
+	Press “MS” button to use the memory value.
+
+#### Scientific Calculator
+	Go File -> Scientific of press CTRL+C
+	Enter your value and press the key which you want to find the answer.
+	Don’t press the button before you enter the value.
+	And also you can select the RADIAN and DEGREE option to calculate trigonometric values.
+   
+#### Converter 
+	First Select the option(Length, Mass, Temperature)
+	Then, Select the units in this two combo boxes.
+	Enter the value you need to convert in the top display and press CONVERT BUTTON to get the value. You can see 
+	converted unit in the second display.
+	Press RESET BUTTON to clear the displays.
+
+#### Graphs
+	Go to File -> Graph or Press CTRL+G 
+
+
 ### How to contribute ? 
 
 Step 1: Set up a working copy on your computer
