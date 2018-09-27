@@ -77,32 +77,33 @@ Finally, Enjoy it..
 
 ### How to contribute ? 
 
-Step 1: Set up a working copy on your computer
-Firstly you need a local fork of the the project, so go ahead and press the “fork” button in GitHub. 
-This will create a copy of the repository in your own GitHub account and you’ll see a note that it’s
-been forked underneath the project name:
+	Step 1: Set up a working copy on your computer
+	Firstly you need a local fork of the the project, so go ahead and press the “fork” button in GitHub. 
+	This will create a copy of the repository in your own GitHub account and you’ll see a note that it’s
+	been forked underneath the project name:
 
-Now you need a copy locally, so find the “SSH clone URL” in the right hand column and use Which will do something like this:
-•	$ git clone https://github.com/FOSSCODY-1/S.T.S.Muthumala.git
+	Now you need a copy locally, so find the “SSH clone URL” in the right hand column and use Which will do 
+	something like this:
+	•	$ git clone https://github.com/FOSSCODY-1/S.T.S.Muthumala.git
 
-Change into the new project’s directory:
+	Change into the new project’s directory:
 
-•	$ cd S.T.S.Muthumala
-Then go to your folder and see the files that you had cloned. 
+	•	$ cd S.T.S.Muthumala
+	Then go to your folder and see the files that you had cloned. 
 
-Step 2 : Now you can open and edit this project and save it in this folder. 
+	Step 2 : Now you can open and edit this project and save it in this folder. 
 
-Step 3 : Now you have to push the repositories in to the Github. Open the terminal and type this.
+	Step 3 : Now you have to push the repositories in to the Github. Open the terminal and type this.
 
-•	$ git commit –m “Write Your Message here” 
+	•	$ git commit –m “Write Your Message here” 
 
-•	$ git push origin master
+	•	$ git push origin master
 
-Now you are contribute the project and all done.
+	Now you are contribute the project and all done.
 
-Step 4 : Exit the terminal to type this
+	Step 4 : Exit the terminal to type this
 
-•	$ exit
+	•	$ exit
 
 ------------------------------------------------------------------------------------------------------------------------------------
 ### Testing Proofs :
