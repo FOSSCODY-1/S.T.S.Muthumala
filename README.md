@@ -45,7 +45,7 @@ Please download the installation setup and choose the location that you want to 
 And also you can create your own shortcuts while the install. 
 Finally, Enjoy it..
 
-How to contribute ? 
+### How to contribute ? 
 
 Step 1: Set up a working copy on your computer
 Firstly you need a local fork of the the project, so go ahead and press the “fork” button in GitHub. 
