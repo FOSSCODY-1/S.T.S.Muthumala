@@ -56,18 +56,22 @@ Now you need a copy locally, so find the “SSH clone URL” in the right hand c
 •	$ git clone https://github.com/FOSSCODY-1/S.T.S.Muthumala.git
 
 Change into the new project’s directory:
+
 •	$ cd S.T.S.Muthumala
 Then go to your folder and see the files that you had cloned. 
 
 Step 2 : Now you can open and edit this project and save it in this folder. 
 
 Step 3 : Now you have to push the repositories in to the Github. Open the terminal and type this.
-•	$ git commit –m “Write Your Message here” ;
+
+•	$ git commit –m “Write Your Message here” 
+
 •	$ git push origin master
 
 Now you are contribute the project and all done.
 
 Step 4 : Exit the terminal to type this
+
 •	$ exit
 
 ------------------------------------------------------------------------------------------------------------------------------------
