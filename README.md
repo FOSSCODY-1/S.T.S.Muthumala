@@ -62,7 +62,7 @@ Finally, Enjoy it..
  #### Graphs
 	Go to File -> Graph or Press CTRL+G 
 
-	### How to contribute ? 
+ ### How to contribute ? 
  
      Step 1: Set up a working copy on your computer
      Firstly you need a local fork of the the project, so go ahead and press the “fork” button in GitHub. 
