@@ -7,8 +7,7 @@ This is a scientific calculator with all functions. Scientific Calculator 1.0 is
  -----------------------------------------------------------------------------------------------------------------------------------
 ### Supported operators
  You can do these functions in this calculator.
-     
-    Operator         Description
+     Operator         Description
     
     log n            log base is 10
     ln x             log base is e
