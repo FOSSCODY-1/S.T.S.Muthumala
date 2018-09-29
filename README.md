@@ -1,12 +1,12 @@
-# S.T.S.Muthumala [ My_Cal ]
+# Scientific Calculator 1.0
 
  ![as](https://user-images.githubusercontent.com/43057523/46132198-12525c00-c25b-11e8-9683-727a58979c2b.jpg)
  
-This is a scientific calculator with all functions. My_Cal is built by JAVA 9.0.4 version. I create this calculator to do all the calculations and convert units and implement trigonometric graphs easy inputs.
+This is a scientific calculator with all functions. Scientific Calculator 1.0 is built by JAVA 9.0.4 version. I create this calculator to do all the calculations and convert units and implement trigonometric graphs easy inputs.
 -
  -----------------------------------------------------------------------------------------------------------------------------------
 ### Supported operators
- I am supposed to do many operators as below.
+ You can do these functions in this calculator.
      Operator         Description
     
     log n            log base is 10
@@ -14,14 +14,13 @@ This is a scientific calculator with all functions. My_Cal is built by JAVA 9.0.
     n!               Factorial
     sqrt             Square root
     cbrt             Cubic root
-    Mod              Modulus
     +                Addition
     -                Subtraction
     *                Multiplication
     /                Division
     %                Percentage
-    2^x              Two to the power x
-    3^x              Three to the power x
+    x^2              X to the power two
+    x^3              X to the power three
     N^x              N to the power x
     
     Trigonometric Function: 
@@ -32,13 +31,16 @@ This is a scientific calculator with all functions. My_Cal is built by JAVA 9.0.
     5.	Cosec
     6.	Sec
      Graph Implementation: 
-	        My_Cal can implement all the trigonometric graphs in easy inputs.
+	        Scientific Calculator 1.0 can implement all the trigonometric graphs in easy inputs.
  -----------------------------------------------------------------------------------------------------------------------------------
 ### How to Install?
  Please download the installation setup and choose the location that you want to install and press install. 
 And also you can create your own shortcuts while the install. 
 Finally, Enjoy it..
-### How to Use the My_Cal
+### How to Use the Scientific Calculator 1.0
+
+![temp](https://user-images.githubusercontent.com/43057523/46245508-402ad280-c40c-11e8-9c38-56e3d6fe146f.jpg)
+
  ##### Standard Calculator
  	Go File -> Standard or press CTRL+S
 	Enter your operands and operators like other normal calculator and press EQUAL BUTTON,
@@ -51,18 +53,20 @@ Finally, Enjoy it..
 	Go File -> Scientific of press CTRL+C
 	Enter your value and press the key which you want to find the answer.
 	Don’t press the button before you enter the value.
-	And also you can select the RADIAN and DEGREE option to calculate trigonometric values.
+	
+	Do you want to find power of a number. 
+		First enter the value and press "x^y BUTTON". Then enter the power of the number and press "x^y ans BUTTON". 
    
-#### Converter 
+ #### Converter 
 	First Select the option(Length, Mass, Temperature)
 	Then, Select the units in this two combo boxes.
-	Enter the value you need to convert in the top display and press CONVERT BUTTON to get the value. You can see 
+	Enter the value you need to convert in the first display and press CONVERT BUTTON to get the value. You can see 
 	converted unit in the second display.
 	Press RESET BUTTON to clear the displays.
  #### Graphs
 	Go to File -> Graph or Press CTRL+G 
 
- ### How to contribute ? 
+	### How to contribute ? 
  
      Step 1: Set up a working copy on your computer
      Firstly you need a local fork of the the project, so go ahead and press the “fork” button in GitHub. 
@@ -71,7 +75,7 @@ Finally, Enjoy it..
      Now you need a copy locally, so find the “SSH clone URL” in the right hand column and use Which will do 
      something like this:
      
-    •	$ git clone https://github.com/FOSSCODY-1/S.T.S.Muthumala.git
+     •	$ git clone https://github.com/FOSSCODY-1/S.T.S.Muthumala.git
     
      Change into the new project’s directory:
      
