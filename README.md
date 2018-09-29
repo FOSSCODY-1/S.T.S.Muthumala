@@ -98,5 +98,7 @@ Finally, Enjoy it..
      Step 4 : Exit the terminal to type this
      •	$ exit
  -------------------------------------------------------------------------------------------------------------------------------------
+### License 
+This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details
 ### Software Download Link:
 https://drive.google.com/drive/folders/1IAOSz8wntoJaNJtAhvEiHgDQFyqpmSXL?usp=sharing
